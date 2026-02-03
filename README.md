@@ -19,7 +19,7 @@ An advanced evolution of the Lara ERP monolithic core, transformed into a high-p
 
 **Notice:** This is a **Live Production-Grade SaaS Engine**. Due to commercial sensitivity, the repository includes architecture overviews and core logic snippets rather than the full source.
 
-#### *Project Timeline: December May 2024- October 2025*
+#### *Project Timeline: May 2024- October 2025*
 
 ![frontend_landing](https://raw.githubusercontent.com/Mohit-Hasan/lara-erp-saas/refs/heads/main/screenshots/1.png)
 
